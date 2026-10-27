@@ -1,0 +1,11 @@
+"menu.turnOff" = "Turn Displays Off";
+"menu.turnOn" = "Turn Displays On";
+"menu.displaysOff" = "Displays off";
+"menu.displaysOn" = "Displays on";
+"menu.switching" = "Switching displays…";
+"menu.shortcut" = "Toggle: Control-Option-Command-D";
+"menu.wakeHint" = "Any keyboard key turns displays on";
+"menu.quit" = "Quit";
+"menu.shortcutUnavailable" = "Shortcut unavailable";
+"menu.checkDisplays" = "Check monitor power";
+"menu.cannotStayAwake" = "Could not keep the Mac awake";

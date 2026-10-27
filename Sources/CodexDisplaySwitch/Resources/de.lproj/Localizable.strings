@@ -1,0 +1,11 @@
+"menu.turnOff" = "Monitore ausschalten";
+"menu.turnOn" = "Monitore einschalten";
+"menu.displaysOff" = "Monitore aus";
+"menu.displaysOn" = "Monitore an";
+"menu.switching" = "Monitore werden geschaltet…";
+"menu.shortcut" = "Umschalten: Control-Option-Command-D";
+"menu.wakeHint" = "Jede Tastaturtaste schaltet die Monitore ein";
+"menu.quit" = "Beenden";
+"menu.shortcutUnavailable" = "Tastenkürzel nicht verfügbar";
+"menu.checkDisplays" = "Monitorstatus prüfen";
+"menu.cannotStayAwake" = "Mac kann nicht wachgehalten werden";
